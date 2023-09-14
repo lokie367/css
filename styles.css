@@ -1,0 +1,70 @@
+    body{
+        margin: 0;
+        text-align: center;
+        font-size: 3em;
+        
+    }
+    h1{
+         font-size: 100px;   
+         margin-top: 0 auto 0 auto; 
+         font-family: "Brush Script MT", cursive;
+         color: #66BFBF;
+        
+        }
+    h4{
+        font-size: 2.5rem;
+        color:  #66BFBF;
+    }    
+        
+    .first-box{
+        background-color: #BDFCEC;
+        margin: 0;
+        height: 100%;
+        width: 100%;
+        border: 10px;
+        padding-top: 20px;
+        position: relative;
+    }
+      .skill-row{
+        width: 50%;
+        margin: auto; 
+        text-align: left;
+        line-height: 1;
+      }
+      .loki{
+        width: 25%;
+        height: 25%;
+       margin-top: 70px;
+      }
+    
+.topcloud{
+    position: absolute;
+    width: 10%;
+
+}
+.bottomcloud{
+    position: absolute;
+     margin-left: 80px;
+
+    }
+.Entre{
+    text-decoration: underline;
+}
+
+p{
+    color: #747576;
+    height: 30%;
+}
+h3{
+    color: #0DA4C3;
+    
+}
+h6{
+    color: #fa2a55;
+    text-align: center;
+    font-size: 50%;
+    font-style: italic;
+}
+.bottom-container:hover {
+color: #fa2a55;
+}
